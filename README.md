@@ -1,4 +1,4 @@
-#My name is Alcides and I'm a FullStack Developer, from Nicaragua living in Spain since 2019
+# My name is Alcides and I'm a FullStack Developer, from Nicaragua living in Spain since 2019
 
 # 💫 About Me:
 ✨ Creating bugs since 2024<br>🌱 I’m currently learning Djando, MySQL<br>🎯 Goals: React, JavaScript, Python<br>⚡ Fun fact: I always found a way to find solutions to problems.
