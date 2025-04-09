@@ -21,14 +21,4 @@ My name is Alcides and I'm a FullStack Developer, from Nicaragua living in Spain
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ALCIDESCONTRERAS&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ALCIDESCONTRERAS/ALCIDESCONTRERAS/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
